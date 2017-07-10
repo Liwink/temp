@@ -1,6 +1,7 @@
 # Do not store data files
 *.txt
 *.csv
+*.pkl
 
 # Created by https://www.gitignore.io/api/macos,python
 
