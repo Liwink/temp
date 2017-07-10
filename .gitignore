@@ -2,6 +2,7 @@
 *.txt
 *.csv
 *.pkl
+*.h5
 
 # Created by https://www.gitignore.io/api/macos,python
 
